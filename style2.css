@@ -1,0 +1,31 @@
+/* Universal selector */
+* {
+    font-family: tahoma;
+}
+
+/* type selector */
+h1 {
+    font-family: verdana;
+    color:brown;
+}
+
+h2 {
+    color:goldenrod;
+}
+
+/* type selector */
+li.satu {
+    color:darkmagenta;
+}
+
+h2.tiga {
+    color:darkorchid;
+}
+
+#lima {
+    color:darkolivegreen;
+}
+
+p>b {
+    color:darkkhaki;
+}
